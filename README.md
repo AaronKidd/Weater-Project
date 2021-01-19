@@ -1,2 +1,2 @@
-# Weater-Project
+# Weather-Project
 Just testing API functionality
